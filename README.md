@@ -1,7 +1,7 @@
 # NewtonRaphsonEmJava
 Tradução do método de Newton-Raphson para Java.
 
-RELATÓRIO ABAIXO:
+RELATÓRIO ABAIXO (Versão em .pdf segue no email):
 
 1. Método de Newton em Java (Classe BigDecimal)
 
